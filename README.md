@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I’m Andrew Galvin, student at Wentworth Institute of Technology pursuing my BCCS with a goal of receiving a Masters in AI/Machine Learning.
+I’m Andrew Galvin, student at Wentworth Institute of Technology pursuing my BCS with a goal of receiving a Masters in AI/Machine Learning.
 
 <!-- ## 👀 I’m interested in ...
 ## 🌱 I’m currently learning ...

@@ -1,9 +1,14 @@
-##
-## 👋 Hi, I’m @andrewgalvin
+\## 👋 Hi there!
+I’m @andrewgalvin
+
 ## 👀 I’m interested in ...
+
 ## 🌱 I’m currently learning ...
+
 ## 💞️ I’m looking to collaborate on ...
+
 ## 📫 How to reach me ...
+
 
 <!---
 andrewgalvin/andrewgalvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
